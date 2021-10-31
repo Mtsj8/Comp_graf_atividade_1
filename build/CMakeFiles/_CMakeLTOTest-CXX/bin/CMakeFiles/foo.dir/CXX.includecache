@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcelo/ufabc/comp-graf/Comp_graf_atividade_1/build/CMakeFiles/_CMakeLTOTest-CXX/src/foo.cpp
+
